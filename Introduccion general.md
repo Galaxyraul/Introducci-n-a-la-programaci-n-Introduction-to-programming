@@ -45,6 +45,18 @@ En la programación hay una regla de oro: DON'T REPEAT YOURSELF (DRY) y una de l
 ## Funciones  
 Siguiendo el mismo principio citado anteriormente, si realizamos una misma acción solo que esta vez la realizamos en diferentes sitios del programa, los bucles ya no nos serán útiles, por ello contamos con las funciones. Estas tienen un nombre mediante el cual pueden ser invocadas para ejecutar el código que contienen.  
 
+## Entorno de programación
+
+Si has visto algún video de programación o a alguien programar, seguro que no los has visto escribiendo en un bloc de notas, aunque es posible; en sus inicios, eso era todo lo que se disponía. 
+
+Por suerte, hoy en día contamos con interfaces gráficas bastante más avanzadas que las de aquella época y con la asistencia de lo que se conoce como IDE (Integrated Development Environment), que es un entorno de desarrollo donde podemos realizar nuestros proyectos y contamos con asistencia del programa y, recientemente, con la de la Inteligencia Artificial.
+
+## Bibliotecas
+
+Por último, a lo largo de toda tu experiencia como programador, oirás la famosa frase "No reinventes la rueda". Aunque yo no soy partidario de esta postura en el ámbito académico, ya que para aprender hay que entender, y qué mejor forma que recrearlo uno mismo. Sí es cierto que en el ámbito laboral es lógico no desperdiciar tiempo en escribir código que ya ha sido escrito antes. Ahí es donde entran en juego las bibliotecas, que son colecciones de código en torno a una tarea, como pueden ser las bibliotecas de operaciones matemáticas que incluyen operaciones como la potencia o la raíz.
+
+
+¡El texto ahora está libre de errores gramaticales y de ortografía!
 Es normal que esta cantidad de información tan repentina te haya impactado, pero no te desanimes. En la siguiente sección veremos muy pocos conceptos nuevos y profundizaremos en los que hemos adquirido llevándolos a la práctica con el pseudocódigo.  
 
  
