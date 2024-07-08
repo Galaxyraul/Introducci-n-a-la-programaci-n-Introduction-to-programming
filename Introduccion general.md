@@ -8,6 +8,8 @@
 - [Estructuras de control](#estructuras-de-control)
 - [Bucles](#bucles)
 - [Funciones](#funciones)
+- [IDEs](#entorno-de-programación)
+- [Bibliotecas](#bibliotecas)
 # Introducción
 Para comenzar este mini curso me gustaría contar mis comienzos con la programación.  
 Mi primer contacto con esta fue cuando tenía 13 años y acababa de entrar a la secundaria, donde conocí la robótica por medio de Lego y la programación por bloques y cómo con algo tan simple como instrucciones de moverse y detectar se podían conseguir cosas más complejas.  
