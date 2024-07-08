@@ -47,3 +47,5 @@ Siguiendo el mismo principio citado anteriormente, si realizamos una misma acci�
 
 Es normal que esta cantidad de información tan repentina te haya impactado, pero no te desanimes. En la siguiente sección veremos muy pocos conceptos nuevos y profundizaremos en los que hemos adquirido llevándolos a la práctica con el pseudocódigo.  
 
+ 
+
