@@ -75,6 +75,24 @@ int main(){
     return 0;
 }
 ```
+## Entrada y salida
+Hemos visto ya como mostrar por pantalla mensajes así como variables. Sin embargo no todo es mostrar, hay veces que es necesario que el usuario introduzca valores.
+Para ello el paquete `iostream` dispone de la función `cin`
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(){
+    int valor;
+    cout << "Introduce un valor entero\n";
+    cin >> valor;
+    cout << "El valor introducido es:" << valor << endl;
+}
+```
+
+## Estructuras de control
+
 
 ## Vectores
 Hemos mencionado en secciones anteriores muy brevemente los vectores ahora profundizaremos en ellos.

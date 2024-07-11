@@ -11,7 +11,9 @@ Para la instalación de nuestro entorno de desarrollo necesitaremos realizar dos
 # Instalación de Visual Studio Code y la extensión de C++
 
 1. Descargamos [Visual Studio Code](https://code.visualstudio.com/download) desde el enlace.\
-   ![descarga_vs](../images/vsdownload.png)
+   
+   <img src = "../images/vsdownload.png"  width="5dvw" max-height="20dvh">
+   
 2. Ejecutamos con permiso de administrador y aceptamos las políticas de uso.\
    ![politicas](../images/politicas.png)
 3. En la última pantalla es importante que esté seleccionada la opción de agregar a PATH.\
