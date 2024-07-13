@@ -297,3 +297,64 @@ git status
 # Verifica que debug.log no aparezca como un archivo no seguido
 ```
 </details>
+
+## Introducción a GitHub
+
+### ¿Qué es GitHub?
+
+GitHub es una plataforma de alojamiento de código basada en la web que utiliza el sistema de control de versiones Git. Permite a los desarrolladores colaborar en proyectos de software, gestionar el historial de cambios y contribuir a proyectos de código abierto. GitHub proporciona una interfaz web fácil de usar y funcionalidades adicionales como la gestión de issues, pull requests, wikis y más.
+
+### Características Clave de GitHub
+
+1. **Repositorios:** Un repositorio es un espacio de almacenamiento donde se encuentra tu proyecto. Puede contener directorios y archivos de cualquier tipo de datos, como código fuente, imágenes, vídeos, hojas de cálculo y datos en general.
+
+2. **Commits:** Un commit es una instantánea de tu proyecto en un momento específico. Cada commit tiene un mensaje descriptivo que explica los cambios realizados.
+
+3. **Branches (Ramas):** Las ramas permiten trabajar en diferentes partes de un proyecto de forma aislada. La rama principal se llama `main` (anteriormente `master`), pero puedes crear otras ramas para desarrollar nuevas características, corregir errores, etc.
+
+4. **Pull Requests:** Una pull request es una solicitud para fusionar cambios de una rama a otra. Permite revisar y discutir los cambios propuestos antes de integrarlos en la rama principal.
+
+5. **Issues:** Las issues son una forma de rastrear tareas, mejoras y errores en tu proyecto. Puedes asignarlas a colaboradores, etiquetarlas y organizarlas.
+
+### Creando un Repositorio en GitHub
+
+1. **Crear una cuenta en GitHub:**
+   - Ve a [GitHub](https://github.com/) y regístrate para obtener una cuenta gratuita.
+
+2. **Crear un nuevo repositorio:**
+   - Haz clic en el botón `+` en la esquina superior derecha y selecciona `New repository`.
+   - Proporciónale un nombre a tu repositorio y una descripción opcional.
+   - Puedes optar por hacer el repositorio público o privado.
+   - Inicializa el repositorio con un archivo `README.md` si lo deseas.
+   - Haz clic en `Create repository`.
+
+### Conectando un Repositorio Local con GitHub
+
+1. **Inicializar Git en tu proyecto local:**
+   ```bash
+   git init
+   ```
+
+2. **Añadir archivos y hacer un commit inicial:**
+   ```bash
+   git add .
+   git commit -m "Initial commit"
+   ```
+
+3. **Añadir el repositorio remoto (GitHub):**
+   - Copia la URL de tu repositorio de GitHub (disponible en la página del repositorio).
+   - Añade el remoto a tu repositorio local:
+     ```bash
+     git remote add origin https://github.com/tu-usuario/tu-repositorio.git
+     ```
+
+4. **Subir tus cambios al repositorio remoto:**
+   ```bash
+   git push -u origin main
+   ```
+
+### Conclusión
+
+GitHub, junto con Git, es una herramienta poderosa para el control de versiones y la colaboración en proyectos de software. Facilita la gestión del código, la colaboración entre desarrolladores y el seguimiento de los cambios, lo que resulta esencial para el desarrollo de proyectos de cualquier tamaño. Integrar GitHub en tu flujo de trabajo te ayudará a mantener tu código organizado, rastreable y accesible para todos los miembros de tu equipo.
+
+Para mejorar tu manejo con git recomiendo descargar y usar el juego [Oh my git](https://ohmygit.org)
