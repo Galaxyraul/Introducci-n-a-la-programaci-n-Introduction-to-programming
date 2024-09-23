@@ -1,4 +1,5 @@
-[Instalación](./Instalacion_IDE.md)
+[Instalación IDE](./Instalacion_IDE.md)
+
 Una vez que disponemos de nuestro entorno de desarrollo y compilador, es el momento de comenzar nuestra aventura en el laberinto de C++. Por ello, vamos a comenzar con un clásico de la programación, aunque es más una broma interna.
 
 Nuestro primer programa será el clásico "Hola Mundo".
