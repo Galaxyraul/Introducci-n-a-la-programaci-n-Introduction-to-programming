@@ -4,5 +4,5 @@ Orden recomendado:
 - [Pseudocódigo](./pseudocodigo.md)
 - [Introducción a git](./Introduccion_git.md)
 - [C++](./c++/Introduccion.md)
-- [Java](./java/Introduccion.md)
+- [Java](./java/introduccion.md)
 - [Python](./python/Introduccion.md)
