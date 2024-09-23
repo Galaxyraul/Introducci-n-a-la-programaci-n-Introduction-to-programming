@@ -1,5 +1,5 @@
 # Introducción a la Programación en Java
-
+[Instalación](./Instalacion_IDE.md)
 ## Conceptos Básicos
 
 ### Variables y Tipos de Datos

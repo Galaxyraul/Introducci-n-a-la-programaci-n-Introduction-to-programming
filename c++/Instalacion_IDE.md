@@ -1,7 +1,3 @@
-Claro, aquí tienes el texto corregido y mejorado:
-
----
-
 Para el desarrollo en C++ existen una gran variedad de entornos de desarrollo, cada uno con sus puntos fuertes y débiles. Mi favorito es CLion de IntelliJ, pero ya que es de pago, me he decidido por usar Visual Studio Code, que es muy versátil, permite el desarrollo en múltiples lenguajes de programación y es altamente personalizable por medio de extensiones. A continuación, realizaremos la instalación para Windows; la de Mac es similar, y si usas Linux, ambos sabemos que no necesitas una explicación de cómo instalarlo. De todas formas, adjunto el enlace de la [documentación de Visual Studio Code](https://code.visualstudio.com/docs/cpp/introvideos-cpp).
 
 Toda esta guía está basada en la documentación proporcionada por Visual Studio Code, que también cuenta con el siguiente [vídeo](https://www.youtube.com/watch?v=oC69vlWofJQ) donde se explica todo lo que está abajo.
